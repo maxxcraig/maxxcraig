@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Spring Boot, Express.js**
 
-- 👨‍💻 All of my projects are available at ([https://maxxcraig-portfolio.netlify.app/](https://github.com/maxxcraig/MaxPortfolio))](https://github.com/maxxcraig/MaxPortfolio)
+- 👨‍💻 All of my projects are available at ([https://maxxcraig-portfolio.netlify.app/(https://github.com/maxxcraig/MaxPortfolio))](https://github.com/maxxcraig/MaxPortfolio)
 
 - 📫 How to reach me **max8alton@gmail.com**
 
